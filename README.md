@@ -3,7 +3,7 @@
 Saya **Rahmat Ramadhan**, mahasiswa Teknik Informatika yang memiliki minat kuat di bidang **Data Science** dan **Machine Learning**.
 
 Saya telah menyelesaikan program **Bangkit 2024 Machine Learning Path** yang didukung oleh Google, GoTo, dan Traveloka. Dalam program ini, saya memperdalam keahlian dalam pemodelan prediktif, pengolahan data, dan implementasi machine learning menggunakan Python dan TensorFlow.  
-Sebagai bagian dari capstone project Bangkit, saya menjalani magang sebagai **Machine Learning Engineer di PukulEnam**, di mana saya mengembangkan chatbot pembelajaran bahasa Inggris yang dioptimalkan untuk perangkat low-power menggunakan teknologi speech-to-text, text-to-speech, dan model deep learning berbasis LSTM.
+Sebagai bagian dari capstone project Bangkit, saya menjalani magang sebagai **Machine Learning Engineer di PukulEnam**, di mana saya mengembangkan chatbot pembelajaran bahasa Inggris yang dioptimalkan untuk perangkat low-power menggunakan teknologi speech-to-text dan text-to-speech.
 
 Saya juga memiliki pengalaman magang sebagai **Web Developer dan Team Leader** di sebuah instansi keuangan, memimpin tim dalam membangun aplikasi web berbasis Laravel dan MariaDB, serta mengembangkan fitur perhitungan manfaat pensiun berbasis data.
 
