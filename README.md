@@ -7,7 +7,8 @@ Sebagai bagian dari capstone project Bangkit, saya menjalani magang sebagai **Ma
 
 Saya juga memiliki pengalaman magang sebagai **Web Developer dan Team Leader** di sebuah instansi keuangan, memimpin tim dalam membangun aplikasi web berbasis Laravel dan MariaDB, serta mengembangkan fitur perhitungan manfaat pensiun berbasis data.
 
-Beberapa proyek lain yang telah saya kerjakan mencakup analisis sentimen menggunakan Word2Vec dan LSTM, serta pembangunan pipeline ETL untuk analisis kompetitor industri fashion.
+Beberapa proyek lain yang telah saya kerjakan mencakup analisis sentimen menggunakan Word2Vec dan LSTM, serta pembangunan pipeline ETL untuk analisis kompetitor industri fashion.  
+📂 Anda juga bisa melihat proyek-proyek lainnya di repositori GitHub saya untuk mengetahui lebih lanjut hasil karya dan eksperimen saya di bidang data.
 
 Saya antusias untuk terus mengembangkan kemampuan dalam data dan AI, serta siap berkontribusi dalam tim yang berfokus pada teknologi berbasis data.
 
